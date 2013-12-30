@@ -1,0 +1,199 @@
+滚动 自动
+theFloaters floaters var new
+Floaters theFloaters.play play the
+formlist var
+formlist form list
+formlist form list 滚动 自动
+document addItem Floaters Width client div form list body document.body.clientWidth-106 formdiv2 formlist theFloaters.addItem the
+Floaters theFloaters.play play the
+CentAll Scroll Time TimeScrollCentAll
+SetCookie cent Left centRight Set Cookie Time sports sports002centTime sports002centRight 002 半场 sports002centLeft
+SetCookie cent Left Set centRight Cookie Time sports sports002centTime sports002centRight 002 sports002centLeft 休息
+Right r874er Set Cookie 002Men sports 86r874er8 sports002MenRight SetCookie
+Right Set 002Men Cookie sports sports002MenRight SetCookie
+Set Cookie 002Men Left sports sports002MenLeft SetCookie
+Set Cookie 002Men Left sports sports002MenLeft SetCookie
+SetCookie cent Left Set centRight Cookie Time sports sports002centTime sports002centRight 002 sports002centLeft 休息
+泰达 搜狐体育 搜狐 主场 辽宁队 中超 联赛 球迷 辽宁 体育 第十一轮 天津泰达队 天津 网友 文字 北京 迎战 北京时间 朋友 时间
+天津 搜狐 辽宁 第10 第8 12分 天津队 2胜 11分排 负积 本场 比赛 排名 直播
+阿格布 搜狐 辽宁队 运动战 进球 本场 辽沈 七轮 搜狐体育 球队 尼日利亚 德比 三分 客场 大有 外援 签下 最后一分钟 比分 联赛
+搜狐 直播员 现场 比赛 稍后 准时 直播 进入 开始 今晚
+SetCookie cent Left centRight Set Cookie Time sports sports002centTime sports002centRight 002 半场 sports002centLeft
+搜狐 0分 半场 裁判 主裁判 直播员 上半场 一声 比赛 直播 开始
+搜狐 天津 0分 气温 半场 风力 足球 上半场 直播员 天气 很好 比赛 非常 直播 适中 适合 今晚
+王霄 搜狐 半场 郭辉 1分 14秒 直播员 拼抢 刚才 上半场 倒地 直播
+阿格布 佐里奇 张烁 田旭 丁祥瑞 伟安 吴伟安 天津队 4佐里奇 曹阳 王军 祥瑞 半场 搜狐 王霄 1分 32秒 芦彦 天津 队长
+搜狐 1分 半场 球迷 比分 上半场 本场 52秒 直播员 朋友 比赛 预测 直播 欢迎
+搜狐 半场 2分 直播员 上半场 直播
+阿格布 20060218 sohu cdn 头球 Img 241895038 搜狐 photocdn.sohu.com 半场 Img241895038.gif photo src 运动战 gif 进球 联赛 首粒 天津队 8秒
+阿格布 头炮 搜狐 4分 半场 上半场 直播员 打响 直播
+辽宁队 任意球 肇俊哲 搜狐 半场 一球 辽宁 35秒 5分 直播员 上半场 获得 直播 任意
+SetCookie cent Left centRight Set Cookie Time sports sports002centTime sports002centRight 002 半场 sports002centLeft
+阿格布 Set Men Cookie Left sports 002 sports002MenLeft SetCookie 进球
+边路 天津队 搜狐 开局 半场 梦幻 6分 51秒 天津 直播员 上半场 突破 仍然 取得 直播 利用
+张烁 8分 搜狐 半场 守门员 后场 禁区 24秒 控制球 天津队 天津 直播员 射门 直播 控制 得到 突然
+如虹 搜狐 半场 士气 天津队 51秒 8分 天津 直播员 上半场 开场 直播
+辽宁队 卢彦 搜狐 半场 得球 辽宁 拌倒 42秒 9分 直播员 上半场 中场 传球 失误 直播
+张海峰 搜狐 海峰 半场 直播员 10分 上半场 直播
+张海峰 Right Men Set Cookie sports 海峰 黄牌 002 sports002MenRight SetCookie
+黄俊杰 搜狐 半场 俊杰 裁判 本场 10分 35秒 主裁判 直播员 上半场 比赛 直播
+左里奇 辽宁队 搜狐 半场 得球 辽宁 战术 11分 6秒 直播员 上半场 中场 犯规 直播
+张烁 辽宁 搜狐 天津 半场 辽宁队 11分 传找 27秒 队长 直播员 上半场 直播 得到
+辽宁队 搜狐 半场 辽宁 传球 12分 5秒 局面 直播员 上半场 中场 控制 直播 希望
+王新欣 新欣 禁区 搜狐 后卫 半场 12分 44秒 一脚 直播员 远射 上半场 破坏 直播
+角球 搜狐 半场 辽宁队 辽宁 12分 57秒 直播员 上半场 威胁 形成 直播
+辽宁 搜狐 半场 回防 辽宁队 直播员 天津队 13分 20秒 天津 上半场 速度 反击 很快 直播
+丁祥瑞 俊闽 搜狐 祥瑞 半场 守门员 10秒 14分 蒿俊闽 直播员 传球 射门 后者 没收 直播
+搜狐 半场 直播员 上半场 14分 40秒 直播
+阿格布 吴伟安 伟安 搜狐 半场 禁区 上半场 得分 41秒 15分 直播员 突入 射门 后者 直播
+阿格布 吴伟安 伟安 Set Men Cookie Left sports sports002MenLeft SetCookie 002 进球
+SetCookie cent Left centRight Set Cookie Time sports sports002centTime sports002centRight 002 半场 sports002centLeft
+搜狐 半场 直播员 上半场 17秒 17分 直播
+SetCookie cent Left centRight Set Cookie Time sports sports002centTime sports002centRight 002 半场 sports002centLeft
+郭辉 张海峰 黄牌 Right Men Set Cookie sports 海峰 002 sports002MenRight SetCookie 进球
+辽宁队 辽宁 搜狐 一分 半场 郭辉 24秒 拌回 18分 直播员 上半场 直播 落后
+搜狐 进球 半场 直播员 大战 进球大战 18分 55秒 双方 上半场 几分钟 上演 直播 刚才
+搜狐 半场 球迷 比分 上半场 本场 19分 20秒 直播员 朋友 比赛 预测 直播 欢迎
+天津队 辽宁 搜狐 张烁 两名 半场 逼抢 54秒 19分 队员 天津 直播员 前场 带球 丢了 直播
+禁区 搜狐 半场 直播员 41秒 顶到球 天津队 20分 队员 天津 上半场 传入 进攻 直播
+搜狐 半场 对攻 19秒 局面 直播员 上半场 场上 几分钟 直播 平静 经历 下来
+阿格布 搜狐 天津 半场 外援 首场 让人 52秒 直播员 上半场 惊喜 直播 表现
+辽宁队 右路 搜狐 天津 半场 辽宁 天津队 15秒 直播员 上半场 进攻 直播
+辽宁队 搜狐 阵地战 半场 阵地 两队 辽宁 42秒 直播员 上半场 进攻 转入 直播 进入
+俊闽 搜狐 天津 半场 下底传中 23秒 天津队 直播员 上半场 反击 直播
+辽宁队 禁区 搜狐 后卫 天津 半场 辽宁 54秒 天津队 直播员 上半场 插入 直播
+俊闽 门将 搜狐 半场 23秒 蒿俊闽 天津队 天津 直播员 上半场 反击 没收 直播
+搜狐 右路 半场 曹阳 辽宁队 辽宁 54秒 天津队 15号 天津 直播员 上半场 犯规 进攻 直播
+禁区 搜狐 半场 任意球 天津队 25分 16秒 天津 直播员 上半场 右侧 机会 直播 任意 得到
+曹阳 扑出 头球 搜狐 半场 门将 底线 任意球 48秒 25分 直播员 上半场 直播 发出
+搜狐 半场 辽宁队 直播员 辽宁 天津队 7秒 下底 天津 上半场 直播
+卢彦 边线 左路 搜狐 半场 45秒 直播员 上半场 传球 失误 直播
+边线 搜狐 右路 半场 辽宁队 辽宁 从右路 27秒 占得 直播员 进攻 传出 转移 直播 便宜
+张烁 搜狐 天津 半场 直传 51秒 天津队 直播员 越位 上半场 直播
+吴伟安 伟安 辽宁 搜狐 半场 辽宁队 25秒 直播员 上半场 传球 失误 直播
+丁祥瑞 左路 搜狐 祥瑞 半场 54秒 直播员 上半场 犯规 防守 直播
+左里 禁区 搜狐 半场 任意球 16秒 出禁区 齐顶 直播员 开出 直播
+辽宁 队中路 搜狐 后卫 天津 半场 滑铲 辽宁队 中路 天津队 46秒 直播员 上半场 突破 破坏 直播
+丁祥瑞 搜狐 祥瑞 半场 8秒 30分 直播员 上半场 助攻 直播 活跃 今天
+布刚 阿格 禁区 搜狐 半场 打门 36秒 30分 直播员 一脚 上半场 直播
+右路 边线 队从右路 搜狐 天津 半场 辽宁队 辽宁 出边线 天津队 7秒 从右路 直播员 上半场 进攻 破坏 直播
+右路 王军 搜狐 底线 半场 辽宁队 辽宁 43秒 从右路 直播员 上半场 反击 破坏 直播
+左里 辽宁队 角球 禁区 搜狐 半场 球顶 辽宁 出禁区 齐将 14秒 直播员 开出 直播
+阿格布 边线 搜狐 半场 48秒 天津队 天津 直播员 传球 上半场 直播
+王霄 搜狐 小腿 半场 受了点伤 左小腿 13秒 直播员 上半场 直播
+天津队 搜狐 半场 主场 直播员 上半场 54秒 天津 胜利 取得 能否 预测 直播 欢迎
+辽宁 队右路 天津 卢彦 穿入 搜狐 半场 右路 禁区 队员 穿入禁区 时球 卢彦再传 天津队 直播员 破坏 直播 出来
+王霄 搜狐 刘巍 天津 半场 49秒 直播员 上半场 换人 直播
+吴伟安 阿格布 伟安 Set Men Cookie Left SetCookie sports 王霄 刘巍 002 sports002MenLeft 进球 换人
+左路 一段 辽宁 搜狐 队左路 天津 半场 辽宁队 1秒 漏洞 天津队 直播员 上半场 时间 直播 抓住 进行 攻击
+辽宁队 禁区 搜狐 天津 半场 辽宁 天津队 直播员 上半场 传入 直播 刚才
+搜狐 半场 上半场 直播员 53秒 直播
+阿格布 搜狐 半场 上半场 38分 10秒 直播员 直播
+SetCookie cent Left centRight Set Cookie Time sports sports002centTime sports002centRight 002 半场 sports002centLeft
+卢彦 阿格布 轻推 皮球 搜狐 半场 左路 禁区 上半场 12秒 左路传 入网 直播员 后者 直播
+吴伟安 阿格布 伟安 Set Men Cookie Left SetCookie sports 王霄 刘巍 002 sports002MenLeft 进球 换人
+阿格布 吴伟安 伟安 王霄 Set Men Cookie Left 刘巍 sports 002 sports002MenLeft SetCookie 进球 换人
+辽宁队 搜狐 打进 半场 郭辉 辽宁 41分 13秒 直播员 越位 上半场 直播 可惜
+辽宁队 搜狐 天津 半场 1秒 直播员 辽宁 天津队 压上时球 上半场 直播
+左里奇 搜狐 半场 42秒 直播员 上半场 中场 犯规 防守 直播
+搜狐 田旭 半场 任意球 开到 8秒 43分 直播员 上半场 直播 得到
+阿格布 搜狐 天津 半场 外援 直播员 上半场 见解 9秒 44分 看法 发表 直播 欢迎
+搜狐 半场 上半场 直播员 两分钟 补时 44分 直播
+辽宁队 搜狐 天津 半场 任意球 辽宁 天津队 44分 44秒 直播员 前场 上半场 获得 直播 任意
+左路 俊闽 给左路 搜狐 半场 后场 蒿俊闽 45分 直播员 传球 上半场 直播 直接
+王军 辽宁 天津队 搜狐 半场 打门 直播员 58秒 45分 队员 天津 一脚 上半场 身上 直播
+后场 搜狐 半场 直播员 32秒 控制球 天津队 天津 上半场 直播 控制
+半场 上半场 搜狐 直播员 47秒 比赛 直播 结束
+SetCookie cent Left Set centRight Cookie Time sports sports002centTime 002 sports002centRight sports002centLeft 中场休息 中场 休息
+刘巍 吴伟安 阿格布 伟安 Set Men Cookie Left sports 002 王霄 sports002MenLeft SetCookie 进球
+刘巍 吴伟安 阿格布 伟安 Set Men Cookie Left sports 002 王霄 sports002MenLeft SetCookie 进球
+刘巍 吴伟安 阿格布 伟安 Set Men Cookie Left sports 002 王霄 sports002MenLeft SetCookie 进球
+SetCookie cent Left centRight Set Cookie Time sports sports002centTime sports002centRight 002 半场 sports002centLeft
+半场 1秒 搜狐 0分 下半场 直播员 比赛 直播 开始
+辽宁队 海峰 张海峰 搜狐 半场 杨旭 辽宁 8张 0分 33秒 直播员 换人 直播
+海峰 黄牌 郭辉 Right Men Set Cookie sports 张海峰 002 sports002MenRight SetCookie 杨旭 进球 8张 换人
+辽宁 搜狐 半场 全队 辽宁队 49秒 不想 1分 直播员 输球 就此 直播 开始 看到 可以
+界外 俊闽 搜狐 半场 辽宁队 辽宁 铲出 2分 直播员 试图 突破 直播
+左里奇 搜狐 半场 后场 辽宁队 任意球 辽宁 8秒 3分 直播员 前场 犯规 获得 直播
+徐亮 扑出 搜狐 3分 半场 打门 门将 39秒 直播员 下半场 直播 精彩 直接
+辽宁队 禁区 搜狐 半场 辽宁 16秒 吊入 4分 直播员 犯规 争抢 直播
+搜狐 队在中路 天津 半场 4分 中路 直播员 天津队 44秒 组织 进攻 直播
+搜狐 天津 半场 中球 辽宁队 5分 辽宁 天津队 直播员 反击 直播 得到
+5分 搜狐 半场 边路 49秒 两个边路 天津队 天津 对手 本场 直播员 比赛 威胁 制造 打的 直播 很大 现在
+底线 搜狐 半场 打门 曹阳 30秒 时球 溜着底线 挡出底线 6分 直播员 进攻 直播
+角球 头球 搜狐 半场 曹阳 手门员 天津队 55秒 6分 天津 直播员 没收 直播
+阿格布 禁区 搜狐 半场 7分 26秒 直播员 传球 失误 直播
+搜狐 下底传中 半场 7分 48秒 天津队 天津 直播员 接应 没有人 直播 可惜
+界外球 搜狐 半场 杨旭 辽宁 24秒 辽宁队 8分 直播员 接球 犯规 直播
+边线 辽宁 搜狐 远端 半场 辽宁队 任意球 天津队 51秒 8分 天津 直播员 直播 任意
+搜狐 9分 半场 直播员 7秒 下半场 直播
+SetCookie cent Left centRight Set Cookie Time sports sports002centTime sports002centRight 002 半场 sports002centLeft
+卢彦 禁区 搜狐 半场 卢彦禁区 11分 5秒 外得球 凌空抽射 直播员 抽射 下半场 凌空 直播
+刘巍 吴伟安 阿格布 伟安 Set Men Cookie Left sports 002 王霄 sports002MenLeft SetCookie 进球
+搜狐 半场 辽宁队 1秒 辽宁 丢球 天津队 13分 天津 直播员 出界 中场 传球 直播 可惜
+搜狐 半场 辽宁队 辽宁 54秒 13分 天津队 传球 天津 逼抢 直播员 前场 失误 展开 直播
+吴伟安 伟安 扑出 搜狐 半场 禁区 门将 3秒 15分 一脚 射门 直播员 下半场 直播
+搜狐 半场 直播员 下半场 48秒 天津队 15分 天津 进攻 原因 直播 爆发 觉得 突然
+搜狐 半场 直播员 下半场 直播
+杨旭 禁区 搜狐 半场 下半场 14秒 前得球 17分 劲射 直播员 起脚 直播
+SetCookie cent Left centRight Set Cookie Time sports sports002centTime sports002centRight 002 半场 sports002centLeft
+海峰 黄牌 郭辉 Right Men Set Cookie sports 张海峰 002 sports002MenRight SetCookie 杨旭 进球 8张 换人
+杨旭 郭辉 海峰 张海峰 Right Men Set Cookie sports 002 sports002MenRight 黄牌 进球 SetCookie
+搜狐 半场 直播员 36秒 18分 双方 下半场 比赛 相当 激烈 直播 进行
+肇俊哲 禁区 搜狐 半场 打门 而过 滑门 19分 10秒 一脚 直播员 下半场 直播
+禁区 搜狐 第一点 半场 辽宁队 辽宁 天津队 19分 40秒 天津 直播员 传入 直播
+辽宁 场中路 搜狐 天津 半场 场中 辽宁队 在前 6秒 天津队 20分 直播员 突破 直播
+搜狐 半场 直播员 天津队 住球 19秒 20分 天津 反击 控制 直播 准备
+卢彦 门将 搜狐 半场 直传 46秒 20分 直播员 直播 得到
+阿格布 搜狐 半场 中路 直播员 组织核心 31秒 核心 作用 组织 下半场 直播
+大脚 搜狐 刘巍 半场 辽宁队 辽宁 发击 59秒 直播员 破坏 直播
+天津队 搜狐 张烁 毛彪 半场 天津 直播员 换人 直播
+卢彦 吴伟安 阿格布 伟安 Set Men Cookie Left 王霄 sports 002 毛彪 sports002MenLeft 刘巍 张烁 进球 SetCookie 换人
+阿格布 雷比 搜狐 半场 直播员 盯防 效果 直播 主要 明显 今天
+主队 搜狐 天津 球迷 半场 天津球迷 34秒 直播员 直播 加油
+边路 搜狐 天津 半场 辽宁队 辽宁 10秒 天津队 直播员 传球 进攻 失误 直播 得到 可惜
+右路 门将 搜狐 曹阳右路 半场 曹阳 40秒 直播员 直播 得到
+疾进 搜狐 右路 半场 毛彪 12秒 25分 直播员 带球 断了 上场 直播
+左里奇 雷比 搜狐 半场 25分 55秒 直播员 拼抢 中场 展开 直播
+辽宁队 搜狐 半场 打门 戴琳 门将 辽宁 45秒 15号 30米 一脚 直播员 直播 得到
+卢彦 搜狐 半场 6秒 直播员 拼抢 下半场 倒地 直播 刚才
+辽宁队 后场 搜狐 半场 辽宁 控制球 31秒 直播员 直播 控制
+辽宁队 大脚 球在中路 搜狐 半场 中路 辽宁 10秒 直播员 打中 控制 身后 直播
+辽宁队 曲东 搜狐 戴琳 半场 辽宁 54秒 直播员 换人 直播
+杨旭 郭辉 海峰 张海峰 Right Men Set Cookie sports 002 sports002MenRight 黄牌 进球 SetCookie
+杨旭 曲东 海峰 戴琳 Right Men Set Cookie 郭辉 sports 张海峰 002 黄牌 sports002MenRight SetCookie 进球 8张 换人
+辽宁队 边线 左路 搜狐 半场 中路 辽宁 转到 时球 出边线 转到中路 59秒 直播员 进攻 破坏 直播
+李本舰 卢彦 天津队 搜狐 半场 45秒 30分 天津 直播员 换人 直播
+卢彦 李本舰 吴伟安 阿格布 伟安 Set Men Cookie Left sports 王霄 002 毛彪 刘巍 张烁 sports002MenLeft SetCookie 进球 换人
+左路 禁区 搜狐 半场 打门 毛彪 直播员 下半场 突破 直播 进入
+阿格布 搜狐 半场 皮球 禁区 门将 阿格布不等皮球 托出 天津队 天津 一脚 挑射 传球 落地 直播
+辽宁队 追平 搜狐 半场 再进 比分 辽宁 7秒 直播员 下半场 能否 直播
+一段 天津 搜狐 刘巍 半场 打门 后卫 门将 48秒 天津队 一脚 中后卫 直播员 进攻 没收 比较 直播 灵活
+搜狐 半场 两球 直播员 16秒 天津队 天津 下半场 先后 放开 直播 完全
+左路 吴伟安 伟安 搜狐 半场 39秒 时球 直播员 断了 突破 直播
+杨旭 曲东 海峰 戴琳 Right Men Set Cookie 郭辉 sports 张海峰 002 黄牌 sports002MenRight SetCookie 进球 8张 换人
+左里奇 丁祥瑞 搜狐 祥瑞 半场 30秒 直播员 抽筋 倒地 直播 受伤
+杨旭 搜狐 半场 直播员 下半场 直播
+左里奇 踢倒 搜狐 半场 杨旭 并无 32秒 大碍 直播员 直播 刚才
+雷比 右路 搜狐 半场 毛彪 时球 38分 7秒 直播员 出界 突破 试图 直播
+守门员 搜狐 陈兴 半场 30号 口头 0秒 直播员 冲撞 警告 直播
+搜狐 天津 半场 直播员 局面 48秒 最后五分钟 五分钟 下半场 场上 控制 直播 最后 希望
+搜狐 肇俊哲 半场 边线 曹阳 一片 踢出边线 40分 53秒 天津队 掌声 天津 直播员 地上 直播 友好 得到
+曹阳 搜狐 半场 面部 直播员 41分 26秒 抬出场外 出场 受伤 直播 应该
+曹阳 搜狐 半场 直播员 并无 41分 48秒 大碍 上场 直播 准备
+右路 禁区 从右路 搜狐 半场 辽宁队 底线 辽宁 直播员 突入 破坏 直播
+角球 横梁 头球 辽宁 搜狐 半场 高出 57秒 队员 直播员 开出 直播
+辽宁队 搜狐 半场 辽宁 12秒 43分 直播员 下半场 犯规 进攻 直播
+搜狐 半场 杨旭 直播员 下半场 52秒 43分 上场 抢眼 直播 表现
+搜狐 半场 欢迎您 本场 行将 44分 35秒 直播员 下半场 比赛 点评 直播 结束 进行 欢迎
+辽宁队 大脚 禁区 搜狐 后卫 半场 辽宁 吊入 45分 5秒 直播员 直播
+辽宁队 搜狐 半场 辽宁 让人 45分 53秒 直播员 起敬 肃然 时间 直播 放弃 比赛
+搜狐 半场 直播员 让人 11秒 职业精神 职业 精神 下半场 佩服 直播 他们
+右路 沿右路 搜狐 天津 半场 辽宁队 辽宁 42秒 天津队 直播员 进攻 直播
+搜狐 曹阳在中路 半场 曹阳 中路 47分 17秒 时球 在中路 直播员 传球 直播 准备
+雷比 辽宁队 搜狐 半场 辽宁 47分 39秒 直播员 也是 这时 直播 积极
+阿格布 搜狐 远端 半场 16秒 48分 天津队 天津 直播员 越位 反击 直播
+辽宁队 角球 搜狐 半场 辽宁 48分 直播员 下半场 获得 直播
+左里 搜狐 半场 开到 下半场 倒勾 48分 左里齐 53秒 直播员 解围 直播
+搜狐 半场 直播员 48分 59秒 全场 下半场 比赛 直播 结束
+辽宁 泰达 天津泰达队 搜狐 49分 半场 对手 下场 53秒 最终战胜 天津 7轮 感谢您 不败 直播员 再见 比赛 战胜 关注 直播
