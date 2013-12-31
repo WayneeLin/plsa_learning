@@ -1,0 +1,260 @@
+file:0--------------
+topic#57:	prob:0.236552048295	mamma	women	apartment	lyuda	people	woman	started	bed	burned	azerbaijanis
+topic#190:	prob:0.0907877176774	girlfriend	counselor	changed	larry	time	subject	content	examine	question	dramatically
+topic#113:	prob:0.0796079174112	timor	rouge	genocide	khmer	situation	oil	considerably	east	comparable	realize
+topic#152:	prob:0.0739153495691	rom	drives	bios	disk	supports	controller	card	system	interleave	drive
+topic#38:	prob:0.0608121097278	people	school	standing	building	party	crowd	apartment	wanted	mamma	city
+topic#76:	prob:0.0596330385773	fact	syria	writes	bank	west	jordan	arguments	united	lies	prove
+topic#164:	prob:0.0554392212293	people	happened	lot	marina	mamma	start	shouting	night	talking	azerbaijani
+topic#137:	prob:0.0455679820435	chipset	bus	fanout	high	statements	clones	term	attempt	opinions	owns
+topic#44:	prob:0.0428150000538	land	peace	morocco	father's	west	writes	kuwait	automatically	support	note
+topic#173:	prob:0.0409709178702	service	dealers	good	fun	local	give	support	parts	buy	wrong
+file label:comp.sys.ibm.pc.hardware_test
+nntppostinghost	angkorcedberkeleyedu	article	holly	ks	writes	silly	question	difference	robotics	courier	external	sportster	external	price	sportster	dramatically	dropped	price	courier	remains	knowledge	modems	owns	courier	comments	decide	buy	advance	replies	robotics	info	wanted	kevin	courier	lot	cooler	courier	upgradable	vfast	give	usr	money	tho	sportster	modified	dual	standard	void	warantee	totally	piss	usr
+file:1--------------
+topic#125:	prob:0.203415107347	convention	karl	institute	hess	business	libertarian	sept	committee	expo	party
+topic#172:	prob:0.0930511832805	disk	hard	feature	controller	drive	cylinders	supports	mfm	interleave	floppy
+topic#184:	prob:0.0849812513844	armenian	erzurum	war	ottoman	istanbul	erzincan	revolutionaries	army	russian	cruelties
+topic#156:	prob:0.0617115162226	information	francisco	adl	san	filed	arens	political	lawsuit	plaintiffs	gerard
+topic#152:	prob:0.0563867879033	rom	drives	bios	disk	supports	controller	card	system	interleave	drive
+topic#58:	prob:0.0452811434035	card	screen	problem	times	manually	bottom	work	gateway	cut	computer
+topic#87:	prob:0.0418601854737	people	turkish	bad	person	greeks	turkey	turks	goverment	learn	compromise
+topic#34:	prob:0.0334798032577	tape	drive	tapes	holes	marker	mirror	assembly	sensor	open	pickup
+topic#94:	prob:0.0265375435956	pc	interface	chips	installed	floppy	easily	computers	devices	existing	ibm
+topic#79:	prob:0.0255571121173	police	suit	california	gerard	san	bullock	civil	court	arens	plaintiffs
+file label:comp.sys.ibm.pc.hardware_test
+list	large	inches	diagonal	monochrome	monitors	computer	shopper	lists	pc	compatible	omitted	radius	radius	states	longer	support	pc	notice	nanao	supports	horizontal	frequency	frequency	vga	cards	boot	guess	monitors	graphics	cards	left	voice	mail	nanao	send	literature	report	net	studied	prices	list	prices	relationship	reality	kenneth	almquist	cut	cornerstone	technology	concourse	dr	san	jose	ca	dualpage	diagonal	inches	max	resolution	frequencies	horizontal	vertical	dimensions	inches	price	compatible	dualpage	diagonal	inches	max	resolution	frequencies	horizontal	vertical	dimensions	inches	price	compatible	ikegami	electronics	usa	brook	ave	maywood	nj	diagonal	inches	max	resolution	frequencies	horizontal	vertical	price	compatible	pc	image	systems	corp	ktel	hopkins	nm	diagonal	inches	max	resolution	frequencies	horizontal	vertical	dimensions	inches	price	compatible	diagonal	inches	max	resolution	frequencies	horizontal	vertical	price	compatible	diagonal	inches	max	resolution	frequencies	horizontal	vertical	dimensions	inches	price	compatible	diagonal	inches	max	resolution	frequencies	horizontal	vertical	dimensions	inches	price	compatible	nanao	usa	corp	telo	ave	torrence	ca	flexscan	diagonal	inches	max	resolution	frequencies	horizontal	vertical	dimensions	inches	price	compatible	ranger	technologies	genuis	model	diagonal	inches	max	resolution	frequencies	horizontal	vertical	dimensions	inches	price	compatible	pc	sampo	corp	america	box	atlanta	ga	imagepro	diagonal	inches	max	resolution	frequencies	horizontal	vertical	price	compatible	pc	officepro	iie	diagonal	inches	max	resolution	frequencies	horizontal	vertical	price	pg	april	shopper	compatible	pc	samsung	electronics	america	unknown	samsung	information	systems	st	san	joes	ca	pagemaster	diagonal	inches	max	resolution	frequencies	horizontal	vertical	dimensions	inches	price	compatible	pcmac	sigma	designs	bayside	pkwy	freemont	ca	lview	diagonal	inches	max	resolution	frequencies	horizontal	vertical	dimensions	inches	price	compatible	lview	multimode	diagonal	inches	max	resolution	frequencies	horizontal	vertical	dimensions	inches	price	compatible	multimode	diagonal	inches	max	resolution	frequencies	horizontal	vertical	dimensions	inches	price	min	compatible	pc	silverview	diagonal	inches	max	resolution	frequencies	horizontal	vertical	dimensions	inches	price	min	compatible
+file:2--------------
+topic#172:	prob:0.291706815725	disk	hard	feature	controller	drive	cylinders	supports	mfm	interleave	floppy
+topic#9:	prob:0.204816115527	parents	karabagh	baku	hospital	people	phone	father	sumgait	school	home
+topic#129:	prob:0.0766402818266	system	transfer	controller	systems	card	drives	drive	bios	western	mb
+topic#84:	prob:0.0631843719063	drop	hours	shipping	disk	model	area	high	drive	pc	mac
+topic#27:	prob:0.0577722630713	people	home	put	time	sort	friend	mother	cut	case	run
+topic#40:	prob:0.0533172719214	wide	simms	data	simm	computer	banks	bank	kmail	mixing	bit
+topic#133:	prob:0.0501742448638	number	message	posted	model	reply	helpful	interlaced	nntppostinghost	beginning	messageid
+topic#183:	prob:0.0466160828965	counselor	tin	asked	accept	world	interesting	hammercdchpcom	silverberg	advice	wrote
+topic#33:	prob:0.041736989561	system	eps	mb	ram	bus	slots	service	card	local	technologies
+topic#86:	prob:0.0388234199096	drives	rom	systems	drive	operation	received	disk	supports	feature	heads
+file label:comp.sys.ibm.pc.hardware_test
+friend	spec	hard	drive	western	digital	ide	meg	cylinders	heads	model	number	ms	model	info	appreciated	somone	western	digitals	phone	number
+file:3--------------
+topic#75:	prob:0.128271432507	happened	mamma	leave	soldiers	marina	apartment	told	door	woman	bed
+topic#91:	prob:0.121658242513	war	jews	arab	supply	arabs	israel	askew	started	attacks	fighting
+topic#153:	prob:0.100172590956	azerbaijan	human	azerbaijani	armenia	bodies	thousands	world	rights	armenians	azerbaijanis
+topic#48:	prob:0.0653343034254	birth	risks	humans	give	breech	wives	births	babies	designed	baby
+topic#35:	prob:0.0648062673448	received	uart	printf	data	status	board	command	read	enable	init
+topic#50:	prob:0.064727768516	arab	leaders	typical	leader	gays	writes	article	interested	hides	gedaliah
+topic#45:	prob:0.0611156877109	israeli	minds	policy	arabs	leaders	israelis	arrogant	andor	generals	peace
+topic#166:	prob:0.046017993023	drive	scsi	dos	drdos	irq	partition	shares	advance	work	primary
+topic#4:	prob:0.037166243556	apr	disk	hard	rom	high	problems	form	gmt	features	drive
+topic#65:	prob:0.0350993278122	killed	resistance	people	dorin	soldiers	lebanese	forget	murder	opinions	worked
+file label:comp.sys.ibm.pc.hardware_test
+article	randy	ellingson	writes	questions	deleted	waste	guess	hook	scsi	hd	scsi	port	yields	optimum	borrowed	fujitsu	hd	hooked	trantor	hd	drivers	scsi	port	scsi	port	port	fujitsu	scsi	hd's	scsi	port	counted	pins	board	displayed	ad	happened	junk	bunch	grounds	comments	randy	guy	guy	dawson	hoskyns	group	plc	tel	hoskyns	uk	tel	ibm	austin	usa
+file:4--------------
+topic#17:	prob:0.102662433089	mass	genocide	timor	experiment	east	chomsky	cambodia	hallambaker	occupation	held
+topic#136:	prob:0.0938877309123	bank	west	israel	jews	palestine	jerusalem	israelis	giving	fact	attack
+topic#113:	prob:0.0732184036345	timor	rouge	genocide	khmer	situation	oil	considerably	east	comparable	realize
+topic#125:	prob:0.0626936478148	convention	karl	institute	hess	business	libertarian	sept	committee	expo	party
+topic#13:	prob:0.0533092957851	party	person	started	afraid	guy	couple	mouth	apparently	kill	soldiers
+topic#64:	prob:0.0446221543166	windows	bodnar	stacks	arrived	pearlstein	installed	problem	austin	express	intel
+topic#23:	prob:0.042283650056	slower	machine	states	wait	slow	accomodate	set	motherboard	simms	memory
+topic#104:	prob:0.0414684794783	windows	qemm	manual	stacks	comp	setup	needed	writes	article	bodnar
+topic#175:	prob:0.0410331677012	israeli	adl	israel	group	palestinians	bullock	police	governments	people	press
+topic#147:	prob:0.0393177305865	speed	faster	disk	user	standard	bios	feature	due	bus	ibm
+file label:comp.sys.ibm.pc.hardware_test
+article	sam	latonia	writes	article	compsysibmpchardware	matthew	richard	arnold	subject	date	wed	apr	explain	popular	fast	faster	certian	applications	motherboard	plans	upgrading	chip	future	missing	buying	adds	mention	dx	lot	matt	file	press	return	quit	realy	simple	mother	board	runs	bus	bus	reasons	motherboards	harder	fast	cache	good	idea	slowed	compliant	vesa	bus	chips	faster	lot	good	fast	cache	faster	goshi	installed	virusit	called	ms	copy	floppyburn	iti	love	windowscrash	guy	guy	dawson	hoskyns	group	plc	tel	hoskyns	uk	tel	ibm	austin	usa
+file:5--------------
+topic#194:	prob:0.0854516360402	disk	bios	interface	drives	hard	floppy	drive	rom	note	data
+topic#36:	prob:0.0649636933664	turkish	children	talaat	government	interior	page	orders	minister	turkey	aleppo
+topic#43:	prob:0.0478230470722	drives	card	feature	hard	rom	run	drive	bios	support	supports
+topic#172:	prob:0.0440807058985	disk	hard	feature	controller	drive	cylinders	supports	mfm	interleave	floppy
+topic#100:	prob:0.0422120217051	adl	arens	suit	gerard	information	plaintiffs	include	francisco	lawsuit	office
+topic#152:	prob:0.037237531058	rom	drives	bios	disk	supports	controller	card	system	interleave	drive
+topic#96:	prob:0.0346070698985	controller	floppy	irq	disk	cards	address	drive	ide	cable	primarysecondary
+topic#51:	prob:0.0341448069256	civilians	israeli	condone	israelis	villages	hernlem	murder	claim	terrorists	soil
+topic#186:	prob:0.0330967892505	scsi	floppy	disk	interface	data	machine	price	msdos	pc	replace
+topic#187:	prob:0.0328402867569	serbia	war	milosevic	serbian	peace	hear	mitsotakis	bosnian	plan	president
+file label:comp.sys.ibm.pc.hardware_test
+article	randy	ellingson	writes	choose	ide	dros	box	ide	scsi	unix	box	ide	dros	box	cos	hard	disk	scsi	unix	box	cos	scsi	hard	disk	cdrom	tape	bought	scsi	adding	devices	easier	price	irq	dma	types	device	connected	faster	drives	scsi	dec	realy	average	seek	time	finds	data	faster	toshiba	drive	lots	people	increase	data	transfer	rate	hard	drive	ide	drive	seagate	standard	ide	controller	card	isa	scsi	increase	data	transfer	isa	bus	thinking	adding	hd	range	thinking	hard	buying	scsi	drive	scsi	future	benefit	transfer	nu	pretty	good	number	compare	bought	stateoftheart	scsi	card	isa	pc	stateoftheart	scsi	hard	drive	system	hope	state	art	scsi	disks	mechanicals	state	art	ide	drives	interface	electronis	differ	fijitsu	drive	money	factors	choice	isa	system	cost	adaptec	unix	box	noname	ide	cards	lines	kind	transfer	rate	ide	hd's	buy	topoftheline	ide	caching	controller	hd	cost	caching	controller	give	smartdrive	dos	extra	memory	properly	configured	main	memory	cache	produce	results	caching	controller	unix	reads	reads	data	main	memory	cache	faster	standards	isa	bus	sustain	comments	randy	guy	guy	dawson	hoskyns	group	plc	tel	hoskyns	uk	tel	ibm	austin	usa
+file:6--------------
+topic#199:	prob:0.152191351606	mamma	lyuda	mob	burn	killing	bus	marina	brought	theater	eyes
+topic#195:	prob:0.136339700738	human	rights	system	question	israeli	zionist	solve	problem	solution	statement
+topic#32:	prob:0.0924420491409	sta	mvi	bits	uartcmd	character	equ	abyte	init	bioscom	command
+topic#116:	prob:0.0411501633939	modem	null	plan	pins	control	software	crossed	dtr	cable	dcd
+topic#105:	prob:0.0376424604531	jews	israel	part	current	israelis	honest	answer	palestine	world	islamic
+topic#66:	prob:0.0359898552007	opinions	death	mark	human	hernlem	writes	life	underlining	israel's	applaud
+topic#181:	prob:0.03493875215	weight	forsberg	caused	temporary	observation	technology	chuck	adiposity	people	loss
+topic#136:	prob:0.0332660934734	bank	west	israel	jews	palestine	jerusalem	israelis	giving	fact	attack
+topic#31:	prob:0.030320094408	coming	people	heard	stop	azerbaijani	break	burned	lyuda	time	pay
+topic#82:	prob:0.0295080589018	israel	san	suit	adl	state	arab	information	california	israeli	jewish
+file label:comp.sys.ibm.pc.hardware_test
+messageid	references	nntppostinghost	altdorfaimitedu	article	victor	buttigieg	writes	montuno	wrote	naive	question	basis	cpu	hotter	computationally	intensive	running	totally	agree	friend	cpu	apparently	idle	fact	churning	millions	instructions	keyboard	input	instance	exception	cpu's	laptops	cpu	idle	state	preserving	current	status	absolutely	case	hardware	interrupt	family	halt	instruction	cpu	cease	processing	instructions	cpu	resumes	processing	reset	receiving	external	hardware	interrupt	power	management	facilities	victor	mentions	operating	system's	idle	loop	halt	instruction	matter	kenneth	oberon	software	memorial	drive	cambridge	ma	views	opinions	expressed	necessarily	reflect	employer
+file:7--------------
+topic#195:	prob:0.490534144073	human	rights	system	question	israeli	zionist	solve	problem	solution	statement
+topic#71:	prob:0.104693880709	machine	gateway	problems	disks	dos	glad	properly	run	software	john
+topic#117:	prob:0.068495447127	windows	simm	requires	sale	pin	memory	running	type	possibly	happening
+topic#78:	prob:0.0507866057081	israel	rights	citizens	problem	arabs	statement	countries	minister	political	information
+topic#61:	prob:0.0438140232085	ovule	pill	prevents	contraceptive	vagina	works	risk	pregnancy	extrauterine	nest
+topic#19:	prob:0.041339624738	people	killed	saved	asked	world	put	problem	life	rights	place
+topic#88:	prob:0.04034701765	point	ibm	ps	vesa	advice	term	taxes	pay	video	local
+topic#15:	prob:0.0341254902863	vision	day	distorted	episode	pains	mg	retinal	peripheral	symptoms	normal
+topic#77:	prob:0.0310212144183	sampling	rate	ad	card	pcboard	slots	university	motherboard	email	curiouser
+topic#197:	prob:0.0270458380947	purchase	warranty	card	amex	citibank	double	year	computers	send	credit
+file label:comp.sys.ibm.pc.hardware_test
+messageid	references	nntppostinghost	afriad	true	monitor	problem	occur	mag	monitor	put	mode	running	symptoms	video	card	problem	cirrus	logic	chip	ati	gup	problems	cards	glenn
+file:8--------------
+topic#60:	prob:0.143064728483	keyboard	program	ctrl	lock	programs	simtel	pc	engineering	codes	key
+topic#80:	prob:0.135095391428	bios	drive	floppy	drives	hard	card	controller	mb	system	digital
+topic#184:	prob:0.116660155171	armenian	erzurum	war	ottoman	istanbul	erzincan	revolutionaries	army	russian	cruelties
+topic#6:	prob:0.0978777293692	gainesville	close	mcdonald	worth	claim	skin	oklahoma	robert	deeply	border
+topic#43:	prob:0.0806932609812	drives	card	feature	hard	rom	run	drive	bios	support	supports
+topic#105:	prob:0.0565744647243	jews	israel	part	current	israelis	honest	answer	palestine	world	islamic
+topic#71:	prob:0.0562875658303	machine	gateway	problems	disks	dos	glad	properly	run	software	john
+topic#159:	prob:0.0540511244673	vnews	nntppostinghost	highdensity	vaxvms	newssoftware	files	backup	include	phone	schwinge
+topic#104:	prob:0.049596693041	windows	qemm	manual	stacks	comp	setup	needed	writes	article	bodnar
+topic#25:	prob:0.0460546724735	personnel	phone	support	quick	sales	retail	care	computer	competent	gateway
+file label:comp.sys.ibm.pc.hardware_test
+info	diamond	stealth	pro	mb	vram	graphics	modes	support	hicolor	modes	included	vesa	bios	dos	programs	experiences	bugs	advantages	fast	windows	dos	price
+file:9--------------
+topic#157:	prob:0.447665453727	copy	windows	norton	directory	worked	disks	disk	backup	masters	fine
+topic#116:	prob:0.20022866471	modem	null	plan	pins	control	software	crossed	dtr	cable	dcd
+topic#33:	prob:0.181306434673	system	eps	mb	ram	bus	slots	service	card	local	technologies
+topic#104:	prob:0.170799446882	windows	qemm	manual	stacks	comp	setup	needed	writes	article	bodnar
+topic#71:	prob:8.44490818995e-12	machine	gateway	problems	disks	dos	glad	properly	run	software	john
+topic#197:	prob:2.05743636175e-14	purchase	warranty	card	amex	citibank	double	year	computers	send	credit
+topic#168:	prob:3.81894250557e-15	monitor	power	save	switch	problem	normal	time	seconds	bobby	hehehe
+topic#64:	prob:3.19026664932e-26	windows	bodnar	stacks	arrived	pearlstein	installed	problem	austin	express	intel
+topic#43:	prob:2.23631910363e-36	drives	card	feature	hard	rom	run	drive	bios	support	supports
+topic#161:	prob:1.27228333559e-39	monochrome	brante	max	kind	atari	monitor	connect	universitet	teknisk	card
+file label:comp.sys.ibm.pc.hardware_test
+manual	artec	ni	monitor	specs	rob	malouf	rob	malouf
+file:10--------------
+topic#9:	prob:0.221700953998	parents	karabagh	baku	hospital	people	phone	father	sumgait	school	home
+topic#148:	prob:0.137082748825	woman	people	building	apartment	neighbors	knew	sat	bus	floor	sumgait
+topic#127:	prob:0.0876929502012	israeli	military	territories	human	men	shoham	question	people	arabs	living
+topic#57:	prob:0.0662042613183	mamma	women	apartment	lyuda	people	woman	started	bed	burned	azerbaijanis
+topic#144:	prob:0.064013011815	ringing	experience	ears	months	good	normal	sleep	hearing	antidepressants	started
+topic#177:	prob:0.0566948035114	arab	policy	lebanon	arabs	killed	civilians	writes	article	civilian	amehdi
+topic#103:	prob:0.0467103562679	turks	genocide	officer	armenian	people	passes	ways	proceeded	extermination	closed
+topic#110:	prob:0.0450548823052	oily	face	problem	skin	short	time	nose	acne	cleanser	wash
+topic#38:	prob:0.0440404092202	people	school	standing	building	party	crowd	apartment	wanted	mamma	city
+topic#197:	prob:0.0415927338313	purchase	warranty	card	amex	citibank	double	year	computers	send	credit
+file label:sci.med_test
+article	stephen	montgomerysmith	writes	body	harm	picks	nose	lead	loss	ability	smell	good	catch	cold	easy	pick	cold	viruses	fingers	touching	contaminated	surface	shaking	hands	cold	putting	fingers	nose	transfer	viruses	nose	steven	litvintchouk	mitre	corporation	burlington	road	bedford	ma	fone	arpa	uucp	linussdl
+file:11--------------
+topic#62:	prob:0.545393527541	azerbaijan	armenian	people	soviet	armenians	million	armenia	rights	report	bodies
+topic#95:	prob:0.197600653988	patients	cafergot	tablets	suspect	vomited	stated	effective	surrender	shameful	banks
+topic#7:	prob:0.0930144297315	disease	skin	finding	friend	time	problem	shows	enlighten	sort	wrong
+topic#140:	prob:0.0865130980014	hdl	ldl	cholesterol	drug	risk	lopid	motorola	tablet	gee	risking
+topic#107:	prob:0.0774782907377	patient	eeg	scan	brain	cheaper	diagnosis	headache	ct	tumor	imaging
+topic#16:	prob:4.36458553485e-13	disease	buy	health	people	adequately	die	treatment	money	covered	herman
+topic#63:	prob:6.16317142087e-14	disease	time	emphysema	lung	good	cigarette	attributed	week	lining	sentence
+topic#181:	prob:3.51486261716e-15	weight	forsberg	caused	temporary	observation	technology	chuck	adiposity	people	loss
+topic#112:	prob:8.83693128182e-18	prozac	pittsburgh	chip	effects	gilbert	pa	kenneth	uart	theraputic	drug
+topic#153:	prob:4.4620311358e-25	azerbaijan	human	azerbaijani	armenia	bodies	thousands	world	rights	armenians	azerbaijanis
+file label:sci.med_test
+orthopedist	tuesday	diagnosed	intersection	syndrome	prescribed	feldene	disease	drug	somesh
+file:12--------------
+topic#165:	prob:0.209901523327	people	remember	lay	lyuda	saved	russian	azerbaijani	police	windows	needed
+topic#36:	prob:0.132806006278	turkish	children	talaat	government	interior	page	orders	minister	turkey	aleppo
+topic#174:	prob:0.0928624732103	migraine	prophylaxis	israeli	dose	peace	work	writes	realize	therapies	control
+topic#188:	prob:0.0875133433106	greeks	turks	person	business	panos	bad	conflicts	turkish	side	met
+topic#151:	prob:0.0726776714966	md	mo	data	disks	system	sony	tax	audio	formats	drives
+topic#12:	prob:0.0709332054869	data	brain	project	visualizations	depicting	humbio	effects	sets	function	neurotransmitters
+topic#93:	prob:0.056838848061	world	war	history	statement	modern	unprecedented	community	international	people	time
+topic#198:	prob:0.0566472616265	armenians	armenian	left	explain	lives	parents	served	troops	set	opened
+topic#11:	prob:0.0539871955809	washburn	reached	phone	ami	compuserve	board	informative	critcle	questions	dan
+topic#63:	prob:0.0463703713856	disease	time	emphysema	lung	good	cigarette	attributed	week	lining	sentence
+file label:sci.med_test
+restating	thread	zoloft	stimulating	antidepressant	unfortunate	antidepressant	therapy	trial	error	lot	people	side	effects	medications	manage	conditions	hang	brain	chemistry	set	serotonin	questions	answers	flamesi	deal
+file:13--------------
+topic#177:	prob:0.0938990407079	arab	policy	lebanon	arabs	killed	civilians	writes	article	civilian	amehdi
+topic#56:	prob:0.0690049871781	bodies	armenian	world	hundreds	people	government	armenians	children	opinion	page
+topic#192:	prob:0.067689537084	solution	human	israeli	donot	israel	peace	arabian	rights	question	occupied
+topic#195:	prob:0.0665653628266	human	rights	system	question	israeli	zionist	solve	problem	solution	statement
+topic#67:	prob:0.0568600652093	lyuda	mamma	happened	bed	guy	marina	burn	shouting	started	people
+topic#10:	prob:0.0566083903426	people	mamma	thought	started	building	person	kill	woman	told	apartment
+topic#74:	prob:0.0547370415575	netanyahu	benjamin	leader	jew	harry	hamaza	typical	writes	article	reference
+topic#173:	prob:0.0524926239849	service	dealers	good	fun	local	give	support	parts	buy	wrong
+topic#40:	prob:0.0478215755038	wide	simms	data	simm	computer	banks	bank	kmail	mixing	bit
+topic#160:	prob:0.0404594463925	palestinian	peace	houses	faisal	alhusseini	insurance	talks	phone	newspaper	meeting
+file label:sci.med_test
+distribution	world	messageid	nntppostinghost	uclinkberkeleyedu	jim	haynes	scam	chiropractor	stand	middle	shopping	mall	offering	free	examinations	part	process	involves	multiplejointed	sensor	arm	computer	computer	sounding	voice	digitize	left	psis	digitize	psis	digitize	stand	spine	neutral	position	wondering	measure	computer	voice	impress	victims	measuring	chiropractors	measure	earth	scimedif	duckand	quacks	duck	total	scam	beginning	chiropraxis	chiropractor	sell	subluxation	problem	sell	adjustments	solution	chiropractic	subluxation	delusional	diagnosis	adjustments	subluxations	extension	constitute	delusional	medicine	wide	spectrum	chiropractic	techniques	methods	detecting	spinal	demons	unique	methodolgies	excorcizing	computer	approach	attempt	sell	science	device	hightech	subluxation	detectorand	amazinglyit	show	potential	patient	suffer	fromvs	vertebral	subluxationthe	silent	killer	john	badanes	dc	ca
+file:14--------------
+topic#0:	prob:0.256864148838	people	building	azerbaijani	happened	apartment	sumgait	home	told	knew	marina
+topic#109:	prob:0.0864031616203	people	standing	mamma	committee	building	young	military	night	thought	apartment
+topic#148:	prob:0.0728458000969	woman	people	building	apartment	neighbors	knew	sat	bus	floor	sumgait
+topic#103:	prob:0.0663282603916	turks	genocide	officer	armenian	people	passes	ways	proceeded	extermination	closed
+topic#73:	prob:0.0511792831408	work	physicians	village	people	writes	article	leonard	bayonets	heaps	effect
+topic#29:	prob:0.0495001841334	leung	drink	ng	state	sapiens	ho	school	asian	responsible	problems
+topic#87:	prob:0.0451222267682	people	turkish	bad	person	greeks	turkey	turks	goverment	learn	compromise
+topic#2:	prob:0.0425639412735	crew	problems	ears	clear	limits	flying	rest	gmt	requirements	pilot
+topic#83:	prob:0.0398431128675	activities	aimed	subjected	revolutionaries	vol	desert	ottoman	erzincan	occupied	fields
+topic#152:	prob:0.0348347614757	rom	drives	bios	disk	supports	controller	card	system	interleave	drive
+file label:sci.med_test
+article	alice	sanders	writes	antihistamines	nights	start	paradoxical	effect	night	allergies	figure	developed	bad	insomnia	insomnia	infrequent	sideeffect	diphenhydramine	people	occur	hand	people	build	tolerance	antihistamine	extended	allergy	sufferers	switched	antihistamine	avoid	steven	litvintchouk	mitre	corporation	burlington	road	bedford	ma	fone	arpa	uucp	linussdl
+file:15--------------
+topic#156:	prob:0.264755820051	information	francisco	adl	san	filed	arens	political	lawsuit	plaintiffs	gerard
+topic#47:	prob:0.163245858251	amount	clear	lungs	long	decrease	happen	tar	chances	quitting	time
+topic#182:	prob:0.163233752738	armenians	town	allegedly	armenia	part	usual	give	people	armenian	number
+topic#122:	prob:0.106256920396	simms	simm	pins	slot	jason	wrong	encountered	undoubtedly	post	chunks
+topic#150:	prob:0.0934139427879	acne	son	treatment	dalacin	teenage	clearasil	couple	usual	wierd	counter
+topic#117:	prob:0.0793200468056	windows	simm	requires	sale	pin	memory	running	type	possibly	happening
+topic#178:	prob:0.0700872296403	newsgroup	prolactin	scimedphysics	chemical	tsh	antero	lot	chemistry	julkunen	group
+topic#115:	prob:0.0589252939197	ftp	find	book	interrupt	information	site	bios	advance	emilio	calls
+topic#48:	prob:0.000503888744436	birth	risks	humans	give	breech	wives	births	babies	designed	baby
+topic#26:	prob:0.000249575189043	jiggers	polish	nail	skin	bumps	finger	flamed	read	seals	lake
+file label:sci.med_test
+give	information	pathophysiology	clinical	manifestations	treatment	type	cancer	advance	jason
+file:16--------------
+topic#51:	prob:0.121748321003	civilians	israeli	condone	israelis	villages	hernlem	murder	claim	terrorists	soil
+topic#36:	prob:0.116062123181	turkish	children	talaat	government	interior	page	orders	minister	turkey	aleppo
+topic#158:	prob:0.0913493142735	mouse	heard	argic	ahmed	cosar	discussion	hasan	address	zumabot	nysernetorg
+topic#22:	prob:0.0905090013575	confuse	ha	correctly	spell	title	calling	giving	hasan	master	feel
+topic#169:	prob:0.0455805444866	absurdities	absurd	philosopher	eau	wishes	claire	bertrand	frightened	russell	learn
+topic#17:	prob:0.0445912372505	mass	genocide	timor	experiment	east	chomsky	cambodia	hallambaker	occupation	held
+topic#73:	prob:0.0437806732239	work	physicians	village	people	writes	article	leonard	bayonets	heaps	effect
+topic#128:	prob:0.0400840272622	home	wife	time	hospital	hard	looked	remember	women	pregnant	section
+topic#141:	prob:0.0392647333281	support	revolution	west	popular	time	beeeg	heard	allende	held	access
+topic#198:	prob:0.0362709161767	armenians	armenian	left	explain	lives	parents	served	troops	set	opened
+file label:sci.med_test
+apr	gmt	wrote	article	eric	skagerberg	writes	studies	longterm	health	effects	man's	vasectomy	female	partner	heard	studies	speculation	effect	women's	health	absurd	idea	heard	ted	kaldis's	claim	people	march	washington	point	greatly	reduced	chance	pregnancy	josh	sterile	wife	enjoy	sex	fear	pregnant	uucp	internet
+file:17--------------
+topic#171:	prob:0.161092010818	mamma	apartment	happened	lyuda	burn	neighbors	basement	standing	leave	shouting
+topic#103:	prob:0.0899107842462	turks	genocide	officer	armenian	people	passes	ways	proceeded	extermination	closed
+topic#62:	prob:0.0884092261698	azerbaijan	armenian	people	soviet	armenians	million	armenia	rights	report	bodies
+topic#143:	prob:0.0828074901087	people	armenians	armenia	home	baku	apartment	building	dead	leave	part
+topic#131:	prob:0.0769332107972	israeli	lebanese	hernlem	occupation	deaths	resistance	villages	people	forces	wounded
+topic#25:	prob:0.0644074286908	personnel	phone	support	quick	sales	retail	care	computer	competent	gateway
+topic#180:	prob:0.055866716449	bone	sacrum	vertebrae	ron	solid	adjust	endless	applying	adjusted	patients
+topic#187:	prob:0.050242532747	serbia	war	milosevic	serbian	peace	hear	mitsotakis	bosnian	plan	president
+topic#56:	prob:0.0376744228727	bodies	armenian	world	hundreds	people	government	armenians	children	opinion	page
+topic#98:	prob:0.0374548670394	tough	government	arrogant	andor	arabs	leaders	arab	governments	talk	israelis
+file label:sci.med_test
+messageid	references	nntppostinghost	hobbesucscedu	chiropractor	stand	middle	shopping	mall	offering	free	examinations	part	process	involves	multiplejointed	sensor	arm	computer	computer	sounding	voice	digitize	left	psis	digitize	psis	digitize	stand	spine	neutral	position	wondering	measure	computer	voice	impress	victims	measuring	chiropractors	measure	ya	talk	ya	wanna	dif'rent	aint	ya	gotta	territory	meredith	willson	music	man
+file:18--------------
+topic#164:	prob:0.0936796651777	people	happened	lot	marina	mamma	start	shouting	night	talking	azerbaijani
+topic#9:	prob:0.0813043746259	parents	karabagh	baku	hospital	people	phone	father	sumgait	school	home
+topic#99:	prob:0.0508383238054	israeli	lebanese	occupation	death	collaborator	israel	face	remember	charming	resistance
+topic#21:	prob:0.0506926462932	started	woman	azerbaijani	people	life	men	told	room	sumgait	thought
+topic#154:	prob:0.0479380029579	happened	lyuda	apartment	mamma	stop	shouting	woman	marina	time	neighbors
+topic#91:	prob:0.0469066015903	war	jews	arab	supply	arabs	israel	askew	started	attacks	fighting
+topic#142:	prob:0.0403771672724	year	breast	months	mother	feeding	years	child	unfit	nursing	homer
+topic#119:	prob:0.038204562607	blood	red	cross	provide	died	transfusions	people	long	agencies	good
+topic#12:	prob:0.0355928572212	data	brain	project	visualizations	depicting	humbio	effects	sets	function	neurotransmitters
+topic#37:	prob:0.0349607180045	surgery	year	recurrent	boy	volvulus	probability	time	recurrence	attacks	wife
+file label:sci.med_test
+son	started	falling	sick	started	day	care	home	year	fall	sick	sort	cold	flu	pretty	month	time	cold	leads	ear	infection	result	ends	antibiotics	weeks	kids	day	care	fall	sick	beginning	son	susceptible	immunity	average	longerterm	effects	constantly	sick	antibiotics	build	resistance	enjoys	day	care	great	beginning	nanny	studies	answer	questions	kids	years	fall	sick	colds	flus	ear	infections	data	home	care	day	care	sick	build	immunity	leading	illness	kids	weaker	leading	illness	long	term	effect	antibiotics	regular	basis	negative	long	term	effects	child	susceptible	illness	normal	build	immunity	resistance	data	information	advice	relating	appreciated	lot	ashwin
+file:19--------------
+topic#153:	prob:0.143358980501	azerbaijan	human	azerbaijani	armenia	bodies	thousands	world	rights	armenians	azerbaijanis
+topic#163:	prob:0.110455887052	military	israeli	intent	fire	clear	duty	personnel	positive	identification	uniform
+topic#124:	prob:0.0752990673489	magazine	nazi	fact	collaboration	germany	considered	aryan	world	armeniannazi	mitteilungsblatt
+topic#107:	prob:0.0662358089365	patient	eeg	scan	brain	cheaper	diagnosis	headache	ct	tumor	imaging
+topic#9:	prob:0.0625372652727	parents	karabagh	baku	hospital	people	phone	father	sumgait	school	home
+topic#15:	prob:0.0545200796106	vision	day	distorted	episode	pains	mg	retinal	peripheral	symptoms	normal
+topic#92:	prob:0.0526711187355	ho	ng	leung	drink	milk	writes	article	school	problems	primary
+topic#134:	prob:0.0520272952729	people	argument	mistake	entire	read	place	support	signature	situation	discussion
+topic#177:	prob:0.049715855541	arab	policy	lebanon	arabs	killed	civilians	writes	article	civilian	amehdi
+topic#112:	prob:0.0491464779936	prozac	pittsburgh	chip	effects	gilbert	pa	kenneth	uart	theraputic	drug
+file label:sci.med_test
+article	kenneth	gilbert	writes	cph	place	understanding	feel	free	correct	enzymes	worst	mildly	elevated	normal	function	clue	history	hepb	infection	positive	hepbsag	cah	distinction	pathology	identical	clinical	features	chronic	persistent	hepatitis	diagnosed	liver	biopsy	patient	persistently	elevated	serum	transaminases	months	bout	acute	viral	hepatitis	persistently	elevated	transaminases	routine	screening	tests	degree	elevation	serum	transaminases	trivial	ten	times	normal	blood	chemistries	normal	rule	patients	cph	clinical	signs	liver	disease	chronic	active	hepatitis	asymptomatic	minimally	symptomatic	initially	important	means	biopsy	patient	cph	reassured	patient	cah	treated	howard	doyle

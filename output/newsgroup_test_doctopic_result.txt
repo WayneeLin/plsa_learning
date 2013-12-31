@@ -1,0 +1,80 @@
+0--------------
+topic:	57	mamma	women	apartment	lyuda	people	woman	started	bed	burned	azerbaijanis
+file label:comp.sys.ibm.pc.hardware_test
+nntppostinghost	angkorcedberkeleyedu	article	holly	ks	writes	silly	question	difference	robotics	courier	external	sportster	external	price	sportster	dramatically	dropped	price	courier	remains	knowledge	modems	owns	courier	comments	decide	buy	advance	replies	robotics	info	wanted	kevin	courier	lot	cooler	courier	upgradable	vfast	give	usr	money	tho	sportster	modified	dual	standard	void	warantee	totally	piss	usr
+1--------------
+topic:	125	convention	karl	institute	hess	business	libertarian	sept	committee	expo	party
+file label:comp.sys.ibm.pc.hardware_test
+list	large	inches	diagonal	monochrome	monitors	computer	shopper	lists	pc	compatible	omitted	radius	radius	states	longer	support	pc	notice	nanao	supports	horizontal	frequency	frequency	vga	cards	boot	guess	monitors	graphics	cards	left	voice	mail	nanao	send	literature	report	net	studied	prices	list	prices	relationship	reality	kenneth	almquist	cut	cornerstone	technology	concourse	dr	san	jose	ca	dualpage	diagonal	inches	max	resolution	frequencies	horizontal	vertical	dimensions	inches	price	compatible	dualpage	diagonal	inches	max	resolution	frequencies	horizontal	vertical	dimensions	inches	price	compatible	ikegami	electronics	usa	brook	ave	maywood	nj	diagonal	inches	max	resolution	frequencies	horizontal	vertical	price	compatible	pc	image	systems	corp	ktel	hopkins	nm	diagonal	inches	max	resolution	frequencies	horizontal	vertical	dimensions	inches	price	compatible	diagonal	inches	max	resolution	frequencies	horizontal	vertical	price	compatible	diagonal	inches	max	resolution	frequencies	horizontal	vertical	dimensions	inches	price	compatible	diagonal	inches	max	resolution	frequencies	horizontal	vertical	dimensions	inches	price	compatible	nanao	usa	corp	telo	ave	torrence	ca	flexscan	diagonal	inches	max	resolution	frequencies	horizontal	vertical	dimensions	inches	price	compatible	ranger	technologies	genuis	model	diagonal	inches	max	resolution	frequencies	horizontal	vertical	dimensions	inches	price	compatible	pc	sampo	corp	america	box	atlanta	ga	imagepro	diagonal	inches	max	resolution	frequencies	horizontal	vertical	price	compatible	pc	officepro	iie	diagonal	inches	max	resolution	frequencies	horizontal	vertical	price	pg	april	shopper	compatible	pc	samsung	electronics	america	unknown	samsung	information	systems	st	san	joes	ca	pagemaster	diagonal	inches	max	resolution	frequencies	horizontal	vertical	dimensions	inches	price	compatible	pcmac	sigma	designs	bayside	pkwy	freemont	ca	lview	diagonal	inches	max	resolution	frequencies	horizontal	vertical	dimensions	inches	price	compatible	lview	multimode	diagonal	inches	max	resolution	frequencies	horizontal	vertical	dimensions	inches	price	compatible	multimode	diagonal	inches	max	resolution	frequencies	horizontal	vertical	dimensions	inches	price	min	compatible	pc	silverview	diagonal	inches	max	resolution	frequencies	horizontal	vertical	dimensions	inches	price	min	compatible
+2--------------
+topic:	172	disk	hard	feature	controller	drive	cylinders	supports	mfm	interleave	floppy
+file label:comp.sys.ibm.pc.hardware_test
+friend	spec	hard	drive	western	digital	ide	meg	cylinders	heads	model	number	ms	model	info	appreciated	somone	western	digitals	phone	number
+3--------------
+topic:	75	happened	mamma	leave	soldiers	marina	apartment	told	door	woman	bed
+file label:comp.sys.ibm.pc.hardware_test
+article	randy	ellingson	writes	questions	deleted	waste	guess	hook	scsi	hd	scsi	port	yields	optimum	borrowed	fujitsu	hd	hooked	trantor	hd	drivers	scsi	port	scsi	port	port	fujitsu	scsi	hd's	scsi	port	counted	pins	board	displayed	ad	happened	junk	bunch	grounds	comments	randy	guy	guy	dawson	hoskyns	group	plc	tel	hoskyns	uk	tel	ibm	austin	usa
+4--------------
+topic:	17	mass	genocide	timor	experiment	east	chomsky	cambodia	hallambaker	occupation	held
+file label:comp.sys.ibm.pc.hardware_test
+article	sam	latonia	writes	article	compsysibmpchardware	matthew	richard	arnold	subject	date	wed	apr	explain	popular	fast	faster	certian	applications	motherboard	plans	upgrading	chip	future	missing	buying	adds	mention	dx	lot	matt	file	press	return	quit	realy	simple	mother	board	runs	bus	bus	reasons	motherboards	harder	fast	cache	good	idea	slowed	compliant	vesa	bus	chips	faster	lot	good	fast	cache	faster	goshi	installed	virusit	called	ms	copy	floppyburn	iti	love	windowscrash	guy	guy	dawson	hoskyns	group	plc	tel	hoskyns	uk	tel	ibm	austin	usa
+5--------------
+topic:	194	disk	bios	interface	drives	hard	floppy	drive	rom	note	data
+file label:comp.sys.ibm.pc.hardware_test
+article	randy	ellingson	writes	choose	ide	dros	box	ide	scsi	unix	box	ide	dros	box	cos	hard	disk	scsi	unix	box	cos	scsi	hard	disk	cdrom	tape	bought	scsi	adding	devices	easier	price	irq	dma	types	device	connected	faster	drives	scsi	dec	realy	average	seek	time	finds	data	faster	toshiba	drive	lots	people	increase	data	transfer	rate	hard	drive	ide	drive	seagate	standard	ide	controller	card	isa	scsi	increase	data	transfer	isa	bus	thinking	adding	hd	range	thinking	hard	buying	scsi	drive	scsi	future	benefit	transfer	nu	pretty	good	number	compare	bought	stateoftheart	scsi	card	isa	pc	stateoftheart	scsi	hard	drive	system	hope	state	art	scsi	disks	mechanicals	state	art	ide	drives	interface	electronis	differ	fijitsu	drive	money	factors	choice	isa	system	cost	adaptec	unix	box	noname	ide	cards	lines	kind	transfer	rate	ide	hd's	buy	topoftheline	ide	caching	controller	hd	cost	caching	controller	give	smartdrive	dos	extra	memory	properly	configured	main	memory	cache	produce	results	caching	controller	unix	reads	reads	data	main	memory	cache	faster	standards	isa	bus	sustain	comments	randy	guy	guy	dawson	hoskyns	group	plc	tel	hoskyns	uk	tel	ibm	austin	usa
+6--------------
+topic:	199	mamma	lyuda	mob	burn	killing	bus	marina	brought	theater	eyes
+file label:comp.sys.ibm.pc.hardware_test
+messageid	references	nntppostinghost	altdorfaimitedu	article	victor	buttigieg	writes	montuno	wrote	naive	question	basis	cpu	hotter	computationally	intensive	running	totally	agree	friend	cpu	apparently	idle	fact	churning	millions	instructions	keyboard	input	instance	exception	cpu's	laptops	cpu	idle	state	preserving	current	status	absolutely	case	hardware	interrupt	family	halt	instruction	cpu	cease	processing	instructions	cpu	resumes	processing	reset	receiving	external	hardware	interrupt	power	management	facilities	victor	mentions	operating	system's	idle	loop	halt	instruction	matter	kenneth	oberon	software	memorial	drive	cambridge	ma	views	opinions	expressed	necessarily	reflect	employer
+7--------------
+topic:	195	human	rights	system	question	israeli	zionist	solve	problem	solution	statement
+file label:comp.sys.ibm.pc.hardware_test
+messageid	references	nntppostinghost	afriad	true	monitor	problem	occur	mag	monitor	put	mode	running	symptoms	video	card	problem	cirrus	logic	chip	ati	gup	problems	cards	glenn
+8--------------
+topic:	60	keyboard	program	ctrl	lock	programs	simtel	pc	engineering	codes	key
+file label:comp.sys.ibm.pc.hardware_test
+info	diamond	stealth	pro	mb	vram	graphics	modes	support	hicolor	modes	included	vesa	bios	dos	programs	experiences	bugs	advantages	fast	windows	dos	price
+9--------------
+topic:	157	copy	windows	norton	directory	worked	disks	disk	backup	masters	fine
+file label:comp.sys.ibm.pc.hardware_test
+manual	artec	ni	monitor	specs	rob	malouf	rob	malouf
+10--------------
+topic:	9	parents	karabagh	baku	hospital	people	phone	father	sumgait	school	home
+file label:sci.med_test
+article	stephen	montgomerysmith	writes	body	harm	picks	nose	lead	loss	ability	smell	good	catch	cold	easy	pick	cold	viruses	fingers	touching	contaminated	surface	shaking	hands	cold	putting	fingers	nose	transfer	viruses	nose	steven	litvintchouk	mitre	corporation	burlington	road	bedford	ma	fone	arpa	uucp	linussdl
+11--------------
+topic:	62	azerbaijan	armenian	people	soviet	armenians	million	armenia	rights	report	bodies
+file label:sci.med_test
+orthopedist	tuesday	diagnosed	intersection	syndrome	prescribed	feldene	disease	drug	somesh
+12--------------
+topic:	165	people	remember	lay	lyuda	saved	russian	azerbaijani	police	windows	needed
+file label:sci.med_test
+restating	thread	zoloft	stimulating	antidepressant	unfortunate	antidepressant	therapy	trial	error	lot	people	side	effects	medications	manage	conditions	hang	brain	chemistry	set	serotonin	questions	answers	flamesi	deal
+13--------------
+topic:	177	arab	policy	lebanon	arabs	killed	civilians	writes	article	civilian	amehdi
+file label:sci.med_test
+distribution	world	messageid	nntppostinghost	uclinkberkeleyedu	jim	haynes	scam	chiropractor	stand	middle	shopping	mall	offering	free	examinations	part	process	involves	multiplejointed	sensor	arm	computer	computer	sounding	voice	digitize	left	psis	digitize	psis	digitize	stand	spine	neutral	position	wondering	measure	computer	voice	impress	victims	measuring	chiropractors	measure	earth	scimedif	duckand	quacks	duck	total	scam	beginning	chiropraxis	chiropractor	sell	subluxation	problem	sell	adjustments	solution	chiropractic	subluxation	delusional	diagnosis	adjustments	subluxations	extension	constitute	delusional	medicine	wide	spectrum	chiropractic	techniques	methods	detecting	spinal	demons	unique	methodolgies	excorcizing	computer	approach	attempt	sell	science	device	hightech	subluxation	detectorand	amazinglyit	show	potential	patient	suffer	fromvs	vertebral	subluxationthe	silent	killer	john	badanes	dc	ca
+14--------------
+topic:	0	people	building	azerbaijani	happened	apartment	sumgait	home	told	knew	marina
+file label:sci.med_test
+article	alice	sanders	writes	antihistamines	nights	start	paradoxical	effect	night	allergies	figure	developed	bad	insomnia	insomnia	infrequent	sideeffect	diphenhydramine	people	occur	hand	people	build	tolerance	antihistamine	extended	allergy	sufferers	switched	antihistamine	avoid	steven	litvintchouk	mitre	corporation	burlington	road	bedford	ma	fone	arpa	uucp	linussdl
+15--------------
+topic:	156	information	francisco	adl	san	filed	arens	political	lawsuit	plaintiffs	gerard
+file label:sci.med_test
+give	information	pathophysiology	clinical	manifestations	treatment	type	cancer	advance	jason
+16--------------
+topic:	51	civilians	israeli	condone	israelis	villages	hernlem	murder	claim	terrorists	soil
+file label:sci.med_test
+apr	gmt	wrote	article	eric	skagerberg	writes	studies	longterm	health	effects	man's	vasectomy	female	partner	heard	studies	speculation	effect	women's	health	absurd	idea	heard	ted	kaldis's	claim	people	march	washington	point	greatly	reduced	chance	pregnancy	josh	sterile	wife	enjoy	sex	fear	pregnant	uucp	internet
+17--------------
+topic:	171	mamma	apartment	happened	lyuda	burn	neighbors	basement	standing	leave	shouting
+file label:sci.med_test
+messageid	references	nntppostinghost	hobbesucscedu	chiropractor	stand	middle	shopping	mall	offering	free	examinations	part	process	involves	multiplejointed	sensor	arm	computer	computer	sounding	voice	digitize	left	psis	digitize	psis	digitize	stand	spine	neutral	position	wondering	measure	computer	voice	impress	victims	measuring	chiropractors	measure	ya	talk	ya	wanna	dif'rent	aint	ya	gotta	territory	meredith	willson	music	man
+18--------------
+topic:	164	people	happened	lot	marina	mamma	start	shouting	night	talking	azerbaijani
+file label:sci.med_test
+son	started	falling	sick	started	day	care	home	year	fall	sick	sort	cold	flu	pretty	month	time	cold	leads	ear	infection	result	ends	antibiotics	weeks	kids	day	care	fall	sick	beginning	son	susceptible	immunity	average	longerterm	effects	constantly	sick	antibiotics	build	resistance	enjoys	day	care	great	beginning	nanny	studies	answer	questions	kids	years	fall	sick	colds	flus	ear	infections	data	home	care	day	care	sick	build	immunity	leading	illness	kids	weaker	leading	illness	long	term	effect	antibiotics	regular	basis	negative	long	term	effects	child	susceptible	illness	normal	build	immunity	resistance	data	information	advice	relating	appreciated	lot	ashwin
+19--------------
+topic:	153	azerbaijan	human	azerbaijani	armenia	bodies	thousands	world	rights	armenians	azerbaijanis
+file label:sci.med_test
+article	kenneth	gilbert	writes	cph	place	understanding	feel	free	correct	enzymes	worst	mildly	elevated	normal	function	clue	history	hepb	infection	positive	hepbsag	cah	distinction	pathology	identical	clinical	features	chronic	persistent	hepatitis	diagnosed	liver	biopsy	patient	persistently	elevated	serum	transaminases	months	bout	acute	viral	hepatitis	persistently	elevated	transaminases	routine	screening	tests	degree	elevation	serum	transaminases	trivial	ten	times	normal	blood	chemistries	normal	rule	patients	cph	clinical	signs	liver	disease	chronic	active	hepatitis	asymptomatic	minimally	symptomatic	initially	important	means	biopsy	patient	cph	reassured	patient	cah	treated	howard	doyle
